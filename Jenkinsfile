@@ -28,7 +28,7 @@ pipeline {
     }
 
     environment {
-        DOCKER_HUB_REPO = "techiescamp/jenkins-java-app"
+        DOCKER_HUB_REPO = "grandeon/jenkins-java-app"
         IMAGE_TAG = "2.0.0"
     }
 
